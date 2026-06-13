@@ -1,1 +1,1 @@
-# DecodeLabs-Internship-Garima-
+In the Exploratory Data Analysis, the descriptive statistics of the Data was evaluated. The Pivot Tables showed the informations through Pie Charts and Line Charts which clearly reflects instagram being the top referral sources and the bulk quantity or orders made through the Referral Sources. The Project highly used the Advance excel and power query for Data Interpretation and Analysis to bring out the conclusions.
